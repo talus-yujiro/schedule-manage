@@ -1,0 +1,10 @@
+{
+    "name": "schedule-manage",
+    "short_name": "ScheduleManage",
+    "description": "Googleカレンダー連携によるスケジュール管理アプリケーション",
+    "version": "1.0.1",
+    "start_url": "./index.html",
+    "display": "fullscreen",
+    "background_color": "#f3f6fb",
+    "theme_color": "#1976d2"
+}
